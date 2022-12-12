@@ -1,5 +1,5 @@
 function Dheart(q)
-clc; clear; % up command window and workspace
+% up command window and workspace
 % Ruogu Fang
 clc;
 t0 = 1000;
